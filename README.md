@@ -1,4 +1,4 @@
-# karencoin
+# Karen Coin
 Solidity source code for Karen Coin
 
 A general purpose blockchain highly compatible with Ethereum's ecosystem.
